@@ -112,9 +112,10 @@ Concluí **92 horas de formação complementar pela Asimov Academy**, distribuí
 </details>
 
 <details>
-<summary><strong>Desenvolvimento de aplicações</strong></summary>
+<summary><strong>Desenvolvimento e colaboração</strong></summary>
 
 - Criando Aplicativos Web com Streamlit, 5h
+- Git e GitHub: Controle de Versão e Colaboração, 9h
 
 </details>
 
